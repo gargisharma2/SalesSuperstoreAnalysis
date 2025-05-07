@@ -35,3 +35,5 @@ This project showcases real-world data analysis by cleaning and analyzing retail
 git clone https://github.com/your-username/Superstore-Sales-Analysis.git
 - Open the .ipynb file in Jupyter Notebook or Google Colab.
 - Run the cells step by step to perform the analysis.
+## 🙋‍♀️ Author
+**Gargi Sharma**
